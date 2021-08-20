@@ -42,11 +42,11 @@ kubectl get nodes -owide
 ```
 kubeadm token list
 ```
-output will be similar liek below
+output will be similar like below
 ![kubeadm token list output](kubeadm-token-list.png)
 
 
-2. Delte the token that you wish
+2. Delete the token that you wish
 
 ```
 kubeadm token delete lk3v5v.wdzpx0yonqseocoz
