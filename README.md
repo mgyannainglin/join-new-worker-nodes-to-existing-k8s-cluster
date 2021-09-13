@@ -1,4 +1,3 @@
-# Testing gitbook sync
 
 # join new worker nodes to existing k8s cluster
 ### Creating a New Token
