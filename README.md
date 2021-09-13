@@ -1,3 +1,5 @@
+# Testing gitbook sync
+
 # join new worker nodes to existing k8s cluster
 ### Creating a New Token
 1. Using the kubeadm command, list your current tokens on the Master node. If your cluster was initialized over 24-hour ago, the list will likely be empty, since a token’s lifespan is only 24-hours.
